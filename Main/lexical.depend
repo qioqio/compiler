@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1526942838 source:g:\hit_study\编译原理\实验\compiler\main\gram.cpp
+	"lexical.h"
+
+1526929587 g:\hit_study\编译原理\实验\compiler\main\lexical.h
+	<fstream>
+	<iostream>
+	<string.h>
+	<cctype>
+	<math.h>
+
+1526929652 source:g:\hit_study\编译原理\实验\compiler\main\lexical.cpp
+	"lexical.h"
+
+1526943480 source:g:\hit_study\编译原理\实验\compiler\main\main.cpp
+	"lexical.h"
+
